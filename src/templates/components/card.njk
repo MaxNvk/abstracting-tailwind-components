@@ -1,0 +1,15 @@
+{% macro content(card) %}
+
+    <div class="w-full h-full overflow-hidden bg-white rounded-lg shadow-xl">
+        <img src="{{ card.imageUrl }}" class="w-full" alt="random image" />
+        <div class="p-4">
+            <h2 class="text-2xl font-bold text-pink-600">
+                {{ card.title }}
+            </h2>
+            <p class="mt-3">
+                {{ card.description }}
+            </p>
+        </div>
+    </div>
+
+{% endmacro %}

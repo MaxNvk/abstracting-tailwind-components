@@ -5,6 +5,7 @@ import './styles/style.pcss';
 import './templates/index.njk';
 import './templates/components/card.njk';
 import './templates/base.njk';
+import './templates/components/card.njk';
 
 
 // Vendor dependencies

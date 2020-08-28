@@ -1,8 +1,10 @@
 # Abstracting Components from TailwindCSS Utilities
 
-![Cover image](docs/media/Abstracting-Components-with-TailwindCSS.001.png)  
-![Utility Abstraction Flowchart](docs/media/Abstracting-Components-with-TailwindCSS.002.png)  
-![Design to be implmented](docs/media/Abstracting-Components-with-TailwindCSS.003.png)  
+Source code for the video [When and How to Abstract Components from Tailwind Utilities](https://youtu.be/lcJa6Wj89is)
 
-Source code for [[link-to-video]]
+![Cover image](docs/media/Abstracting-Components-with-TailwindCSS.001.png)
+![Utility Abstraction Flowchart](docs/media/Abstracting-Components-with-TailwindCSS.002.png)
+![Design to be implmented](docs/media/Abstracting-Components-with-TailwindCSS.003.png)
+
+
 
